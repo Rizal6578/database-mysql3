@@ -1,0 +1,38 @@
+/* style.css */
+
+/* Atur font dan warna dasar */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+}
+
+/* Container untuk halaman */
+.wrapper {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 20px;
+}
+
+/* Tabel Produk */
+.table {
+    background-color: #fff;
+}
+
+/* Formulir Pencarian */
+.input-group {
+    margin-bottom: 20px;
+}
+
+/* Pagination */
+.pagination {
+    margin-top: 20px;
+}
+
+/* Warna tombol aktif pada pagination */
+.pagination .active a {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+/* Gaya lainnya sesuai kebutuhan */
